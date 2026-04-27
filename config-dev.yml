@@ -1,2 +1,3 @@
 config:
-  info: "this is dev config for 3355"
+  info: "This is dev config updated 2025"
+version: 2.0
