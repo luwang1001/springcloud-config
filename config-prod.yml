@@ -1,2 +1,2 @@
 config:
-  info: "这是生产环境prod配置"
+  info: "This is the production environment config"
